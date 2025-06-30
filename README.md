@@ -65,7 +65,7 @@ python src/global_optimal_search.py
 python src/main.py
 ```
 ### More about the project 
-Read : https://drive.google.com/file/d/1jEBPs7XjuP82YFKN3xL_6fNigLlqs4zz/view?usp=drive_link
+Read : https://drive.google.com/file/d/1WAM7YRNVyM1TqY9Yj1gUNrRPac3a3_Jb/view?usp=drive_link
 
 ### References 
 1) Winston, W. L. (2004). Inventory theory. In Operations Research: Applications and Algorithms (4th ed., pp. [890-907]). Belmont, CA: Thomson/Brooks/Cole.
