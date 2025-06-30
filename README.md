@@ -43,8 +43,7 @@ pip install simpy numpy matplotlib seaborn
 ### Project Structure
 ```bash
 inventory-rl/
-├── data/                   # Simulation output data
-├── docs/                   # Presentation slides
+├── result/                   # Simulation output data                 # Presentation slides
 ├── src/
 │   ├── global_optimal_search.py     # Finds optimal (s,S) policy
 │   ├── main.py                      # Trains & evaluates Q-agent
@@ -65,6 +64,8 @@ python src/global_optimal_search.py
 ```bash
 python src/main.py
 ```
+### More about the project 
+Read : https://drive.google.com/file/d/1jEBPs7XjuP82YFKN3xL_6fNigLlqs4zz/view?usp=drive_link
 
 ### References 
 1) Winston, W. L. (2004). Inventory theory. In Operations Research: Applications and Algorithms (4th ed., pp. [890-907]). Belmont, CA: Thomson/Brooks/Cole.
